@@ -1,0 +1,89 @@
+<svg height="100" preserveaspectratio="xMidYMid meet" viewbox="0 0 100 100"
+     width="100" x="0" xmlns="http://www.w3.org/2000/svg" y="0">
+    <defs>
+        <clippath id="cp-1">
+            <circle cx="50" cy="50" r="50">
+            </circle>
+        </clippath>
+    </defs>
+    <circle fill="none" cx="50" cy="50" r="50">
+    </circle>
+    <g clip-path="url(#cp-1)">
+        <g transform="translate(15.00, 15.00) scale(0.70, 0.70)">
+            <circle fill="#0c3157" cx="0" cy="50" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+            <circle fill="#0c3157" cx="50" cy="100" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+            <circle fill="#0c3157" cx="100" cy="50" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+            <circle fill="#0c3157" cx="50" cy="0" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+        </g>
+        <g transform="rotate(45, 50, 50) translate(15.00, 15.00) scale(0.70, 0.70)">
+            <circle fill="#0c3157" cx="0" cy="50" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+            <circle fill="#0c3157" cx="50" cy="100" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+            <circle fill="#0c3157" cx="100" cy="50" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+            <circle fill="#0c3157" cx="50" cy="0" r="0"
+                    style="mix-blend-mode: screen;" transform="translate(0.00, 0.00) scale(1.00, 1.00)">
+                <animate
+                        attributeName="r"
+                        dur="5s"
+                        values="0;50;0"
+                        repeatCount="indefinite"
+                />
+            </circle>
+        </g>
+    </g>
+</svg>

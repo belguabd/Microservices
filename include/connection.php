@@ -1,0 +1,1 @@
+<?php $bd = new PDO('mysql:dbname=project_pfe','root','');
